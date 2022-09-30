@@ -589,5 +589,18 @@
         "camera": "64 mp",
         "speed": "5g",
         "connectivity":"c"
-     }
+     },
+    {
+        "id": "69",
+        "company name": "oppo",
+        "model number": "Reno 6 5G",
+        "ram": "8gb",
+        "storage": "128 gb",
+        "color": "Steller Black",
+        "number of speakers": "2",
+        "launch Date":["14/07/2021"],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    }
 ]
